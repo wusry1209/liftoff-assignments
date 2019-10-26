@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
+1. Login - https://www.figma.com/file/su5innEQI5T7WXgrbJW2NJ/Wireframe-Component-Library-v1.0-Copy?node-id=16063%3A4409
+2. Add - https://www.figma.com/file/su5innEQI5T7WXgrbJW2NJ/Wireframe-Component-Library-v1.0-Copy?node-id=16070%3A4440
+3. List - https://www.figma.com/file/su5innEQI5T7WXgrbJW2NJ/Wireframe-Component-Library-v1.0-(Copy)?node-id=16073%3A64
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/YG7wThL6/liftoff-assignment
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/wusry1209/beverage-log.git
